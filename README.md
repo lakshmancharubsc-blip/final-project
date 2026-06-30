@@ -8,4 +8,4 @@ This project contains a shell script that calculates simple interest.
 - Written in Shell Script
 
 ## Author
-Your Name
+Laskhman
